@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 if __name__ == "__main__":
     from data_ingestion import load_data, preprocess_data
 
-    df = load_data("A:\ML practice\supervised and unsupervised learning\data\possum.csv")
+    df = load_data("https://github.com/surajprakash-data-science/The_Supervised_and_Unsupervised_repo/blob/main/data/possum.csv")
     df = preprocess_data(df)
 
     variable_coloumn = df[[ "skullw", "totlngth"]]

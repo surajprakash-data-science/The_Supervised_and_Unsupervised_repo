@@ -2,11 +2,11 @@
 ***********************************************************************
 This repository has 3 goals: 
 1. This is a collection of supervised and unsupervised machine learning methods.
-2. This is a repository to practice, revise python scripting.
-3. This will explain the difference between traditional notebooks vs python scripting.
+2. This is a repository to practice, revise modular coding and python scripting.
+3. This will explain the difference between traditional notebooks, python scripting and modeular coding.
 
-src/supervised_regression.py file contains most of the very common regression models.
-
+=> src/supervised_regression.py file contains most of the very common regression models.
+=> src/supervised_classification.py file contains most of the very common classification models.
 
 ## Getting Started.
 ******************
